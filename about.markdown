@@ -4,15 +4,21 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
-
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
-
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+The Nation Hillel Esports Initiative is a group of college students across the country trying to unify segments of the Jewish world over a shared love for video games. In addition, we hope to foster a strong Jewish Esports presence, both through grassroots local events and through National competitions hosted by colleges across the US.
 
 
-[jekyll-organization]: https://github.com/jekyll
+# Staff
+
+- Chanan Klapper
+- Gavi Baron
+- Netanel Arussy
+- Dov Stochel
+- Michael Moerdler-Green
+- Esther Meir
+- Shifra Lindenberg
+- Kesser Frankiel
+- Miriam Liba Gross
+- Noah Green
+- Aryeh Ness
+- Aron Kurlantzick
+- Ben Yehuda
