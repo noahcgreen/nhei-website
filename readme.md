@@ -6,4 +6,4 @@ Built on Jekyll with the Minima theme.
 
 ----------
 
-Add content by adding files in the _posts/ or _hall_of_fame/ directories.
+Add content by adding files in the collections/_posts/ or collections/_hall_of_fame/ directories.
