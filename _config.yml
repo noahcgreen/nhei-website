@@ -27,3 +27,6 @@ plugins:
 collections:
   hall_of_fame:
     sort_by: tag
+
+exclude:
+  - readme.md
