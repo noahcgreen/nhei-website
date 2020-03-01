@@ -11,13 +11,13 @@ permalink: /hall-of-fame/
 </p>
 
 <div class="container">
-    {% for entry in site.data.halloffame %}
+    {% for entry in site.hall_of_fame %}
     <div class="card bg-transparent rounded-0 border-dark border-top-0 border-right-0 border-left-0">
         <div class="row">
             <div class="card-body bg-transparent col-sm">
                 <h1 class="card-title">{{ entry.tag }}</h1>
 
-                <p class="card-text">{{ entry.description }}</p>
+                <p class="card-text">{{ entry.content }}</p>
             </div>
             <div class="card-body col-sm">
                 <ul class="list-group list-group-flush">

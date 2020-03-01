@@ -23,3 +23,7 @@ youtube_channel: UCXR3HrzUVzKkH_h6sV_kyIw # Remove this line once we have an act
 theme: minima
 plugins:
   - jekyll-feed
+
+collections:
+  hall_of_fame:
+    sort_by: tag
